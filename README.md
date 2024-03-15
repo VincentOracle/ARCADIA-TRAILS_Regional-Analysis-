@@ -6,18 +6,18 @@ Join us on a journey through the regional analysis, exploring the dynamics of Ba
 
 
 ## Regional Overview
-Geographic Tapestry and Historical Threads: Navigating Balch Springs' Evolution Geographic Location and Boundaries
+### Geographic Tapestry and Historical Threads: Navigating Balch Springs' Evolution Geographic Location and Boundaries
  Nestled within the vibrant landscape of Texas, Balch Springs stands as a thriving city, a mere 15 minutes north of the bustling metropolis of Dallas. The proposed ARCADIA TRAILS B2R project finds its home on 18.72 acres of already properly zoned land along the bustling Beltline Road (Mesquite,(2023). This strategic location places it within easy reach of major thoroughfares, including Interstate Highway 635, Interstate Highway 30, and Interstate Highway 20, knitting the community into the broader fabric of the Dallas-Fort Worth metropolitan region.
-Historical Context and Notable Developments
+### Historical Context and Notable Developments
 Balch Springs, with its population of 25,190 residents, carries a history rich with evolution. Once part of a 173-acre expanse previously owned by HUD, the ARCADIA TRAILS development emerged as a phoenix from the ashes of an affordable housing initiative by the City of Mesquite. The property, laden with deed restrictions tied to a mandate for affordable housing, underwent a transformative journey initiated by BLOOMFIELD HOMES and RECON CAPITAL in 2020. The master plan for ARCADIA TRAILS, conceived as a two-phased development spanning 173 acres, encompasses a nuanced blend of residential, senior living, workforce multifamily, and commercial/retail spaces. Phase I, already in motion, focuses on the northern portion of the property, showcasing the fee-simple new construction single-family homes by BLOOMFIELD HOMES. Simultaneously, RECON CAPITAL has steered zoning and development plans for the mixed-use areas, including the ARCADIA TRAILS B2R.
-Specific City or Area
+### Specific City or Area
  Our lens zooms in on Balch Springs, a city that has embraced unprecedented growth in new construction residential homebuilding and commercial development. As an integral part of the broader ARCADIA TRAILS development, the B2R project occupies a central position along Beltline Road, forming a pivotal piece in the mosaic of a community that is both a testament to innovation and a nod to the historical journey of Balch Springs. The city, having eagerly welcomed the transformative vision of the developers, stands poised to witness the emergence of ARCADIA TRAILS as a new chapter in its urban narrative.
-Population
-Demographic Symphony: Balch Springs 
-Current Population and Trends (2010-2022)
+## Population
+### Demographic Symphony: Balch Springs 
+### Current Population and Trends (2010-2022)
 
 As of the latest census data available in 2022, Balch Springs thrives with a population of 27,000 residents. Reflecting on the past decade, the city has experienced a remarkable growth trajectory. In 2010, the population stood at 18,000, steadily increasing to its current count. This substantial growth, indicative of Balch Springs' allure, underscores the city's resilience and attractiveness as a residential destination (Mesquite,2023).
-Breakdown of Age Groups 
+### Breakdown of Age Groups 
 Balch Springs embraces a mosaic of age diversity, catering to a spectrum of life stages. The demographic breakdown reveals a balanced distribution across age groups, contributing to the city's dynamic and inclusive character.
 i.Under 18: 6,500 
 ii.18-34: 6,000 
