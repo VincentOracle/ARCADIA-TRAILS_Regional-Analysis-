@@ -1,4 +1,4 @@
-# ARCADIA TRAILS REGIONAL ANALYSIS
+# THE ARCADIA TRAILS REGIONAL ANALYSIS
 ## Introduction 
 
 In the heart of Balch Springs, Texas, a visionary development beckons—an opportunity poised to redefine the residential landscape. ARCADIA TRAILS Build-to-Rent (B2R), spanning 18.72 acres of strategically zoned land, emerges as a transformative proposition for modern living. This proposal, an initiative by BLOOMFIELD HOMES and RECON CAPITAL, is more than a development; it's a holistic endeavor to craft a community that harmonizes with the city's unprecedented growth.
